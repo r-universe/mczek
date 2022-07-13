@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CamelUp"]
+	path = CamelUp
+	url = https://github.com/mczek/camel-up
+	shallow = true
+	registered = true
