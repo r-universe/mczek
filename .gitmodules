@@ -8,3 +8,8 @@
 	url = https://github.com/mczek/camel-up
 	shallow = true
 	registered = true
+[submodule "mcStats"]
+	path = mcStats
+	url = https://github.com/mczek/mcstats
+	shallow = true
+	registered = true
